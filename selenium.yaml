@@ -1,3 +1,4 @@
 address: https://test-stand.gb.ru
 driver: ./chromedriver
 sleep_time: 5
+browser: 'chrome'
