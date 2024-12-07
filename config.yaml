@@ -1,4 +1,5 @@
 posts_url: https://test-stand.gb.ru/api/posts
 auth_url: https://test-stand.gb.ru/gateway/login
+login_url: https://test-stand.gb.ru/login
 username: GB2023091eb640
 password: f955ba464f
